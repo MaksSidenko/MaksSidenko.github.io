@@ -1,0 +1,19 @@
+@font-face {
+			font-family: "TimesNewRomanRegular";
+			src: url("../TimesNewRomanRegular/TimesNewRomanRegular.eot");
+			src: url("../TimesNewRomanRegular/TimesNewRomanRegular.eot?#iefix")format("embedded-opentype"),
+			url("../TimesNewRomanRegular/TimesNewRomanRegular.woff") format("woff"),
+			url("../TimesNewRomanRegular/TimesNewRomanRegular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+@font-face {
+			font-family: "TimesNewRomanBold";
+			src: url("../TimesNewRomanBold/TimesNewRomanBold.eot");
+			src: url("../TimesNewRomanBold/TimesNewRomanBold.eot?#iefix")format("embedded-opentype"),
+			url("../TimesNewRomanBold/TimesNewRomanBold.woff") format("woff"),
+			url("../TimesNewRomanBold/TimesNewRomanBold.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+

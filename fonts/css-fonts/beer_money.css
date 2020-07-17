@@ -1,0 +1,9 @@
+	@font-face {
+			font-family: "beer_money";
+			src: url("../beer money/beer money.eot");
+			src: url("../beer money/beer money.eot?#iefix")format("embedded-opentype"),
+			url("../beer money/beer money.woff") format("woff"),
+			url("../beer money/beer money.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
